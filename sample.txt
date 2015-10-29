@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 To use and get familiar with git commands
-=======
-Welcome to hello-world sample of git commands
->>>>>>> develop
+
