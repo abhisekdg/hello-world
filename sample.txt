@@ -1,2 +1,5 @@
-To use and get familiar with git commands
+To use and get familiar with git commands.
 
+git diff --stat --color master origin/master - list the difference with remote and local branch
+git branch -a - list all the branch 
+git pull origin develop - Pull changes from one branch to another 
